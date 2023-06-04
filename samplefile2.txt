@@ -1,1 +1,2 @@
 this is a sample file 2
+this is a compatison lecture,change in file 2
